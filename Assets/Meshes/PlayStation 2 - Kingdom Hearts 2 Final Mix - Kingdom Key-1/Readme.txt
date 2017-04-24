@@ -1,0 +1,1 @@
+This model was ripped by Shadowth117 using a Kingdom Hearts model extractor and viewer as well as 3d Ripper DX. No credit needed.

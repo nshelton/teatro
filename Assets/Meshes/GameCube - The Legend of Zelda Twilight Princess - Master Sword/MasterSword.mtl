@@ -1,0 +1,38 @@
+# Blender MTL File: ''
+# Material Count: 3
+newmtl m0_MastSS03.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.449020 0.449020 0.449020
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MastSS03.png
+map_d MastSS03.png
+
+
+newmtl m1_MastSS01.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.449020 0.449020 0.449020
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MastSS01.png
+map_d MastSS01.png
+
+
+newmtl m2_MastSS00.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.470588 0.470588
+Ks 0.449020 0.449020 0.449020
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MastSS00.png
+map_d MastSS00.png
+
+

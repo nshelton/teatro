@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 15.02.2010 20:18:08
+
+newmtl Material__47
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Public\Documents\Spriter's resource\Models\Kingdom Hearts 2 FM+\Keyblades\Kingdom Key\23fcb0dd.png
+	map_Kd C:\Users\Public\Documents\Spriter's resource\Models\Kingdom Hearts 2 FM+\Keyblades\Kingdom Key\23fcb0dd.png
+	map_d C:\Users\Public\Documents\Spriter's resource\Models\Kingdom Hearts 2 FM+\Keyblades\Kingdom Key\23fcb0dd.png

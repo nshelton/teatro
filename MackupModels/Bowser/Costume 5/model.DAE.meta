@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 6866db2e2b15b4ae8a1f150a2cfa8bfe
+timeCreated: 1492668933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _01_-_TransN
+    100002: _02_-_RotN
+    100004: _03_-_HipN
+    100006: _04_-_LLegJ
+    100008: _05_-_LKneeJ
+    100010: _06_-_LFootJ
+    100012: _07_-_LToeN
+    100014: _08_-_RLegJ
+    100016: _09_-_RKneeJ
+    100018: _10_-_RFootJ
+    100020: _11_-_RToeN
+    100022: _12_-_WaistN
+    100024: _13_-_BustN
+    100026: _14_-_LShoulderN
+    100028: _15_-_LShoulderJ
+    100030: _16_-_LArmJ
+    100032: _17_-_LHandN
+    100034: _18_-_RShoulderN
+    100036: _19_-_RShoulderJ
+    100038: _20_-_RArmJ
+    100040: _21_-_RHandN
+    100042: _22_-_NeckN
+    100044: _23_-_HeadN
+    100046: _24_-_RHaveN
+    100048: _25_-_LHaveN
+    100050: _26_-_ThrowN
+    100052: _27_-_LFingerBaseN
+    100054: _28_-_LThumb1N
+    100056: _29_-_LThumb2N
+    100058: _30_-_LThumb3N
+    100060: _31_-_LIndex1N
+    100062: _32_-_LIndex2N
+    100064: _33_-_LIndex3N
+    100066: _34_-_LMiddleN
+    100068: _35_-_LMiddle1N
+    100070: _36_-_LMiddle2N
+    100072: _37_-_LMiddle3N
+    100074: _38_-_LRingN
+    100076: _39_-_LRing1N
+    100078: _40_-_LRing2N
+    100080: _41_-_LRing3N
+    100082: _42_-_RFingerBaseN
+    100084: _43_-_RThumb1N
+    100086: _44_-_RThumb2N
+    100088: _45_-_RThumb3N
+    100090: _46_-_RIndex1N
+    100092: _47_-_RIndex2N
+    100094: _48_-_RIndex3N
+    100096: _49_-_RMiddleN
+    100098: _50_-_RMiddle1N
+    100100: _51_-_RMiddle2N
+    100102: _52_-_RMiddle3N
+    100104: _53_-_RRingN
+    100106: _54_-_RRing1N
+    100108: _55_-_RRing2N
+    100110: _56_-_RRing3N
+    100112: _57_-_LToe1stN
+    100114: _58_-_LToe2ndN
+    100116: _59_-_LToe3rdN
+    100118: _60_-_RToe1stN
+    100120: _61_-_RToe2ndN
+    100122: _62_-_RToe3rdN
+    100124: _63_-_TailNa
+    100126: _64_-_TailNb
+    100128: _65_-_TailNc
+    100130: _66_-_TailNd
+    100132: _67_-_Mouth3N
+    100134: _68_-_HairN
+    100136: _69_-_LHornN
+    100138: _70_-_RHornN
+    100140: _71_-_Mouth4N
+    100142: _72_-_NoseN
+    100144: _73_-_HLP_CShellJb
+    100146: _74_-_HLP_LShellJb
+    100148: _75_-_HLP_LTekubiJb
+    100150: _76_-_HLP_RShellJb
+    100152: _77_-_HLP_RTekubiJb
+    100154: _78_-_SWG_SHair1N__swing
+    100156: _79_-_SWG_SHair2N__swing
+    100158: koopa_ArmIron_VIS_O_OBJ_
+    100160: koopa_ArmIron_VIS_O_OBJ_ 1
+    100162: koopa_AttackM_VIS_O_OBJ_
+    100164: koopa_AttackM_VIS_O_OBJ_ 1
+    100166: koopa_Blink_VIS_O_OBJ_
+    100168: koopa_body_VIS_O_OBJ_
+    100170: koopa_body_VIS_O_OBJ_ 1
+    100172: koopa_Capture_VIS_O_OBJ_
+    100174: koopa_Capture_VIS_O_OBJ_ 1
+    100176: koopa_Cliff_VIS_O_OBJ_
+    100178: koopa_Cliff_VIS_O_OBJ_ 1
+    100180: koopa_Escape_VIS_O_OBJ_
+    100182: koopa_Escape_VIS_O_OBJ_ 1
+    100184: koopa_Eye_VIS_O_OBJ_
+    100186: koopa_Eye_VIS_O_OBJ_ 1
+    100188: koopa_Eye_VIS_O_OBJ__Layer_2
+    100190: koopa_Eye_VIS_O_OBJ__Layer_2 1
+    100192: koopa_FaceDownM_VIS_O_OBJ_
+    100194: koopa_FaceDownM_VIS_O_OBJ_ 1
+    100196: koopa_faceN_VIS_O_OBJ_
+    100198: koopa_faceN_VIS_O_OBJ_ 1
+    100200: koopa_FaceOuchM_VIS_O_OBJ_
+    100202: koopa_FaceOuchM_VIS_O_OBJ_ 1
+    100204: koopa_FaceTalkM_VIS_O_OBJ_
+    100206: koopa_FaceTalkM_VIS_O_OBJ_ 1
+    100208: koopa_Furafura_VIS_O_OBJ_
+    100210: koopa_Furafura_VIS_O_OBJ_ 1
+    100212: koopa_HairA_VIS_O_OBJ_
+    100214: koopa_Harfblink1_VIS_O_OBJ_
+    100216: koopa_Harfblink2_VIS_O_OBJ_
+    100218: koopa_HeavyOuch_VIS_O_OBJ_
+    100220: koopa_HeavyOuch_VIS_O_OBJ_ 1
+    100222: koopa_LhornsM_VIS_O_OBJ_
+    100224: koopa_NeckIron_VIS_O_OBJ_
+    100226: koopa_NeckIron_VIS_O_OBJ_ 1
+    100228: koopa_Ottotto_VIS_O_OBJ_
+    100230: koopa_Ottotto_VIS_O_OBJ_ 1
+    100232: koopa_RhornsM_VIS_O_OBJ_
+    100234: koopa_Shell_VIS_O_OBJ_
+    100236: koopa_Shell_VIS_O_OBJ_ 1
+    100238: koopa_ShellBodyM_VIS_O_OBJ_
+    100240: koopa_ShellBodyM_VIS_O_OBJ_ 1
+    100242: koopa_ShellBodyM_VIS_O_OBJ_ 2
+    100244: koopa_ShellBodyM_VIS_O_OBJ_ 3
+    100246: koopa_ShellM1_VIS_O_OBJ_
+    100248: koopa_ShellM1_VIS_O_OBJ_ 1
+    100250: //RootNode
+    400000: _01_-_TransN
+    400002: _02_-_RotN
+    400004: _03_-_HipN
+    400006: _04_-_LLegJ
+    400008: _05_-_LKneeJ
+    400010: _06_-_LFootJ
+    400012: _07_-_LToeN
+    400014: _08_-_RLegJ
+    400016: _09_-_RKneeJ
+    400018: _10_-_RFootJ
+    400020: _11_-_RToeN
+    400022: _12_-_WaistN
+    400024: _13_-_BustN
+    400026: _14_-_LShoulderN
+    400028: _15_-_LShoulderJ
+    400030: _16_-_LArmJ
+    400032: _17_-_LHandN
+    400034: _18_-_RShoulderN
+    400036: _19_-_RShoulderJ
+    400038: _20_-_RArmJ
+    400040: _21_-_RHandN
+    400042: _22_-_NeckN
+    400044: _23_-_HeadN
+    400046: _24_-_RHaveN
+    400048: _25_-_LHaveN
+    400050: _26_-_ThrowN
+    400052: _27_-_LFingerBaseN
+    400054: _28_-_LThumb1N
+    400056: _29_-_LThumb2N
+    400058: _30_-_LThumb3N
+    400060: _31_-_LIndex1N
+    400062: _32_-_LIndex2N
+    400064: _33_-_LIndex3N
+    400066: _34_-_LMiddleN
+    400068: _35_-_LMiddle1N
+    400070: _36_-_LMiddle2N
+    400072: _37_-_LMiddle3N
+    400074: _38_-_LRingN
+    400076: _39_-_LRing1N
+    400078: _40_-_LRing2N
+    400080: _41_-_LRing3N
+    400082: _42_-_RFingerBaseN
+    400084: _43_-_RThumb1N
+    400086: _44_-_RThumb2N
+    400088: _45_-_RThumb3N
+    400090: _46_-_RIndex1N
+    400092: _47_-_RIndex2N
+    400094: _48_-_RIndex3N
+    400096: _49_-_RMiddleN
+    400098: _50_-_RMiddle1N
+    400100: _51_-_RMiddle2N
+    400102: _52_-_RMiddle3N
+    400104: _53_-_RRingN
+    400106: _54_-_RRing1N
+    400108: _55_-_RRing2N
+    400110: _56_-_RRing3N
+    400112: _57_-_LToe1stN
+    400114: _58_-_LToe2ndN
+    400116: _59_-_LToe3rdN
+    400118: _60_-_RToe1stN
+    400120: _61_-_RToe2ndN
+    400122: _62_-_RToe3rdN
+    400124: _63_-_TailNa
+    400126: _64_-_TailNb
+    400128: _65_-_TailNc
+    400130: _66_-_TailNd
+    400132: _67_-_Mouth3N
+    400134: _68_-_HairN
+    400136: _69_-_LHornN
+    400138: _70_-_RHornN
+    400140: _71_-_Mouth4N
+    400142: _72_-_NoseN
+    400144: _73_-_HLP_CShellJb
+    400146: _74_-_HLP_LShellJb
+    400148: _75_-_HLP_LTekubiJb
+    400150: _76_-_HLP_RShellJb
+    400152: _77_-_HLP_RTekubiJb
+    400154: _78_-_SWG_SHair1N__swing
+    400156: _79_-_SWG_SHair2N__swing
+    400158: koopa_ArmIron_VIS_O_OBJ_
+    400160: koopa_ArmIron_VIS_O_OBJ_ 1
+    400162: koopa_AttackM_VIS_O_OBJ_
+    400164: koopa_AttackM_VIS_O_OBJ_ 1
+    400166: koopa_Blink_VIS_O_OBJ_
+    400168: koopa_body_VIS_O_OBJ_
+    400170: koopa_body_VIS_O_OBJ_ 1
+    400172: koopa_Capture_VIS_O_OBJ_
+    400174: koopa_Capture_VIS_O_OBJ_ 1
+    400176: koopa_Cliff_VIS_O_OBJ_
+    400178: koopa_Cliff_VIS_O_OBJ_ 1
+    400180: koopa_Escape_VIS_O_OBJ_
+    400182: koopa_Escape_VIS_O_OBJ_ 1
+    400184: koopa_Eye_VIS_O_OBJ_
+    400186: koopa_Eye_VIS_O_OBJ_ 1
+    400188: koopa_Eye_VIS_O_OBJ__Layer_2
+    400190: koopa_Eye_VIS_O_OBJ__Layer_2 1
+    400192: koopa_FaceDownM_VIS_O_OBJ_
+    400194: koopa_FaceDownM_VIS_O_OBJ_ 1
+    400196: koopa_faceN_VIS_O_OBJ_
+    400198: koopa_faceN_VIS_O_OBJ_ 1
+    400200: koopa_FaceOuchM_VIS_O_OBJ_
+    400202: koopa_FaceOuchM_VIS_O_OBJ_ 1
+    400204: koopa_FaceTalkM_VIS_O_OBJ_
+    400206: koopa_FaceTalkM_VIS_O_OBJ_ 1
+    400208: koopa_Furafura_VIS_O_OBJ_
+    400210: koopa_Furafura_VIS_O_OBJ_ 1
+    400212: koopa_HairA_VIS_O_OBJ_
+    400214: koopa_Harfblink1_VIS_O_OBJ_
+    400216: koopa_Harfblink2_VIS_O_OBJ_
+    400218: koopa_HeavyOuch_VIS_O_OBJ_
+    400220: koopa_HeavyOuch_VIS_O_OBJ_ 1
+    400222: koopa_LhornsM_VIS_O_OBJ_
+    400224: koopa_NeckIron_VIS_O_OBJ_
+    400226: koopa_NeckIron_VIS_O_OBJ_ 1
+    400228: koopa_Ottotto_VIS_O_OBJ_
+    400230: koopa_Ottotto_VIS_O_OBJ_ 1
+    400232: koopa_RhornsM_VIS_O_OBJ_
+    400234: koopa_Shell_VIS_O_OBJ_
+    400236: koopa_Shell_VIS_O_OBJ_ 1
+    400238: koopa_ShellBodyM_VIS_O_OBJ_
+    400240: koopa_ShellBodyM_VIS_O_OBJ_ 1
+    400242: koopa_ShellBodyM_VIS_O_OBJ_ 2
+    400244: koopa_ShellBodyM_VIS_O_OBJ_ 3
+    400246: koopa_ShellM1_VIS_O_OBJ_
+    400248: koopa_ShellM1_VIS_O_OBJ_ 1
+    400250: //RootNode
+    4300000: koopa_body_VIS_O_OBJ_
+    4300002: koopa_body_VIS_O_OBJ_
+    4300004: koopa_Eye_VIS_O_OBJ_
+    4300006: koopa_Eye_VIS_O_OBJ__Layer_2
+    4300008: koopa_Eye_VIS_O_OBJ_
+    4300010: koopa_Eye_VIS_O_OBJ__Layer_2
+    4300012: koopa_faceN_VIS_O_OBJ_
+    4300014: koopa_faceN_VIS_O_OBJ_
+    4300016: koopa_FaceOuchM_VIS_O_OBJ_
+    4300018: koopa_FaceOuchM_VIS_O_OBJ_
+    4300020: koopa_FaceTalkM_VIS_O_OBJ_
+    4300022: koopa_FaceTalkM_VIS_O_OBJ_
+    4300024: koopa_FaceDownM_VIS_O_OBJ_
+    4300026: koopa_FaceDownM_VIS_O_OBJ_
+    4300028: koopa_AttackM_VIS_O_OBJ_
+    4300030: koopa_AttackM_VIS_O_OBJ_
+    4300032: koopa_Capture_VIS_O_OBJ_
+    4300034: koopa_Capture_VIS_O_OBJ_
+    4300036: koopa_HeavyOuch_VIS_O_OBJ_
+    4300038: koopa_HeavyOuch_VIS_O_OBJ_
+    4300040: koopa_Cliff_VIS_O_OBJ_
+    4300042: koopa_Cliff_VIS_O_OBJ_
+    4300044: koopa_Furafura_VIS_O_OBJ_
+    4300046: koopa_Furafura_VIS_O_OBJ_
+    4300048: koopa_Escape_VIS_O_OBJ_
+    4300050: koopa_Escape_VIS_O_OBJ_
+    4300052: koopa_Ottotto_VIS_O_OBJ_
+    4300054: koopa_Ottotto_VIS_O_OBJ_
+    4300056: koopa_NeckIron_VIS_O_OBJ_
+    4300058: koopa_NeckIron_VIS_O_OBJ_
+    4300060: koopa_LhornsM_VIS_O_OBJ_
+    4300062: koopa_RhornsM_VIS_O_OBJ_
+    4300064: koopa_ArmIron_VIS_O_OBJ_
+    4300066: koopa_ArmIron_VIS_O_OBJ_
+    4300068: koopa_HairA_VIS_O_OBJ_
+    4300070: koopa_ShellBodyM_VIS_O_OBJ_
+    4300072: koopa_ShellBodyM_VIS_O_OBJ_
+    4300074: koopa_ShellBodyM_VIS_O_OBJ_
+    4300076: koopa_ShellBodyM_VIS_O_OBJ_
+    4300078: koopa_ShellM1_VIS_O_OBJ_
+    4300080: koopa_ShellM1_VIS_O_OBJ_
+    4300082: koopa_Harfblink1_VIS_O_OBJ_
+    4300084: koopa_Harfblink2_VIS_O_OBJ_
+    4300086: koopa_Blink_VIS_O_OBJ_
+    4300088: koopa_Shell_VIS_O_OBJ_
+    4300090: koopa_Shell_VIS_O_OBJ_
+    9500000: //RootNode
+    13700000: koopa_ArmIron_VIS_O_OBJ_
+    13700002: koopa_ArmIron_VIS_O_OBJ_ 1
+    13700004: koopa_AttackM_VIS_O_OBJ_
+    13700006: koopa_AttackM_VIS_O_OBJ_ 1
+    13700008: koopa_Blink_VIS_O_OBJ_
+    13700010: koopa_body_VIS_O_OBJ_
+    13700012: koopa_body_VIS_O_OBJ_ 1
+    13700014: koopa_Capture_VIS_O_OBJ_
+    13700016: koopa_Capture_VIS_O_OBJ_ 1
+    13700018: koopa_Cliff_VIS_O_OBJ_
+    13700020: koopa_Cliff_VIS_O_OBJ_ 1
+    13700022: koopa_Escape_VIS_O_OBJ_
+    13700024: koopa_Escape_VIS_O_OBJ_ 1
+    13700026: koopa_Eye_VIS_O_OBJ_
+    13700028: koopa_Eye_VIS_O_OBJ_ 1
+    13700030: koopa_Eye_VIS_O_OBJ__Layer_2
+    13700032: koopa_Eye_VIS_O_OBJ__Layer_2 1
+    13700034: koopa_FaceDownM_VIS_O_OBJ_
+    13700036: koopa_FaceDownM_VIS_O_OBJ_ 1
+    13700038: koopa_faceN_VIS_O_OBJ_
+    13700040: koopa_faceN_VIS_O_OBJ_ 1
+    13700042: koopa_FaceOuchM_VIS_O_OBJ_
+    13700044: koopa_FaceOuchM_VIS_O_OBJ_ 1
+    13700046: koopa_FaceTalkM_VIS_O_OBJ_
+    13700048: koopa_FaceTalkM_VIS_O_OBJ_ 1
+    13700050: koopa_Furafura_VIS_O_OBJ_
+    13700052: koopa_Furafura_VIS_O_OBJ_ 1
+    13700054: koopa_HairA_VIS_O_OBJ_
+    13700056: koopa_Harfblink1_VIS_O_OBJ_
+    13700058: koopa_Harfblink2_VIS_O_OBJ_
+    13700060: koopa_HeavyOuch_VIS_O_OBJ_
+    13700062: koopa_HeavyOuch_VIS_O_OBJ_ 1
+    13700064: koopa_LhornsM_VIS_O_OBJ_
+    13700066: koopa_NeckIron_VIS_O_OBJ_
+    13700068: koopa_NeckIron_VIS_O_OBJ_ 1
+    13700070: koopa_Ottotto_VIS_O_OBJ_
+    13700072: koopa_Ottotto_VIS_O_OBJ_ 1
+    13700074: koopa_RhornsM_VIS_O_OBJ_
+    13700076: koopa_Shell_VIS_O_OBJ_
+    13700078: koopa_Shell_VIS_O_OBJ_ 1
+    13700080: koopa_ShellBodyM_VIS_O_OBJ_
+    13700082: koopa_ShellBodyM_VIS_O_OBJ_ 1
+    13700084: koopa_ShellBodyM_VIS_O_OBJ_ 2
+    13700086: koopa_ShellBodyM_VIS_O_OBJ_ 3
+    13700088: koopa_ShellM1_VIS_O_OBJ_
+    13700090: koopa_ShellM1_VIS_O_OBJ_ 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
